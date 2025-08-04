@@ -7,4 +7,4 @@ Config.Police = {
 Config.AlarmTime = 30000 --milliseconds default 30 seconds
 
 Config.BlipName = 'Bait Car' 
-Config.UseUi = false
+Config.UseUi = falseConfig.UseUi = false --doesnt work yet
