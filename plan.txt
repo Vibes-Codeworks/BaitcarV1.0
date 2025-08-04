@@ -1,0 +1,30 @@
+* /plantbaitcar
+    *Tags the current car 
+    *stores the NetID on the server
+
+* Entry detection 
+    * detect when someone enters the car
+    *alert police / start tracking 
+
+* cop controls 
+    */baitcontrol to bring up options
+        *lock
+        *kill engine 
+        show blip/ remove blip
+
+*reset/ cleanup
+    */baitreset to clear everything
+    * or auto reset if car despawns
+
+    dashcam in car maybe
+    add door unlock option 
+**/nest steps 
+    move menu location to side of screen 
+    eventually make it so they can change the size and location 
+    make it look like a tablet or a control board?
+
+
+**/known bugs 
+     
+     if car gets deleted while active it transfers to a new car?
+     function to remove the specific bait car from the baitcars table 
